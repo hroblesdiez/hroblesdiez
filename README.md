@@ -1,4 +1,4 @@
-# Hi, I'm Humberto Robles
+# Hi, my name is Humberto
 
 **Geospatial Engineer** · Warsaw, Poland 🇵🇱  
 
@@ -6,10 +6,7 @@
 
 ## About Me
 
-Geospatial  Engineer with experience deploying, administering, and
-maintaining GIS infrastructure in enterprise and cloud environments.
-Experienced with PostgreSQL/PostGIS, Windows Server administration, and
-geospatial services. Skilled in automation scripting and ETL pipelines.
+Results-driven GIS Engineer with over 8 years of experience delivering innovative geospatial solutions across diverse industries. Proven track record of optimizing data workflows and implementing scalable GIS systems. At Google Maps, I reduced error detection time by 40% through advanced ETL pipelines and automated QA processes. Skilled in Python scripting, FME automation, and geospatial analysis of complex datasets. Experienced in developing custom geoprocessing tools, publishing web mapping services, and administrating ESRI solutions (ArcGIS Enterprise).
 
 
 
@@ -20,31 +17,11 @@ geospatial services. Skilled in automation scripting and ETL pipelines.
 | Category | Tools |
 |---|---|
 | **Databases** | PostgreSQL, PostGIS |
-| **GIS Platforms** | QGIS, ArcGIS Pro, ArcGIS Server, ArcGIS Enterprise |
+| **GIS Platforms** | QGIS, ArcGIS Pro, ArcGIS Server, ArcGIS Enterprise, ArcGIS Online |
 | **Cloud** | Google Cloud Platform, Oracle Cloud |
 | **Scripting & ETL** | Bash, Powershell, Python, ArcPy, FME, SQL, Windows Batch |
+| **OS** | Linux, Windows |
 | **Other** | Git, API REST, JSON, Git, XML, WFS, WMS |
-
----
-
-## Experience Highlights
-
-**GIS Administrator @ Technosylva** *(May 2025 – Feb 2026)*  
-Maintained GIS infrastructure for *Wildfire Analyst*, a geospatial app for
-wildfire behavior modeling. Managed PostgreSQL on Linux registered with ArcGIS
-Server, deployed ArcGIS Server on Windows Server 2022 VM on GCP, and
-monitored server/portal logs to resolve infrastructure issues.
-
-**GIS Analyst @ Google Maps via Cognizant** *(Dec 2023 – Apr 2025)*  
-Developed GIS tools (Python, ArcPy), automated workflows (Batch scripts), and
-built ETL pipelines (FME, SQL, PLX Workflow) for spatial data integration into
-the Google Maps database.
-
-**Geospatial Infrastructure Engineer (Freelance)** *(Mar 2020 – Nov 2023)*  
-Deployed and administered a PostgreSQL/PostGIS database on a physical server
-running Windows Server 2019. Configured multi-user concurrent editing in QGIS,
-automated backups, and developed custom PostGIS functions for land parcel
-suitability analysis in renewable energy projects.
 
 ---
 
@@ -63,7 +40,8 @@ by land use class, registration group, and area across multiple counties,
 visualise results on an interactive map, and export filtered data as GeoJSON
 (EPSG:2180). Built with vanilla JavaScript, deployed on Netlify with CORS proxy in Oracle Cloud for WFS endpoints.
 
----
+### [Routing optimization](https://github.com/hroblesdiez/routing-optimization)
+Interactive web application for calculating optimal routes between two points in Warsaw. Uses PostGIS and pgRouting for geospatial processing, FastAPI for backend, and Leaflet.js for visualization. Includes automatic OpenStreetMap data download, PostgreSQL import with Docker, and distance and travel time estimation.
 
 ## Let's connect
 
